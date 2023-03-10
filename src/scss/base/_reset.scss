@@ -1,9 +1,17 @@
+@use "./../abstracts/mixins" as *;
+
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+html {
+  @include media(67rem) {
+    font-size: 0.875rem;
+  }
 }
 
 body {

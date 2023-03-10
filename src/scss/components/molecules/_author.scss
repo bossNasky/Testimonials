@@ -1,0 +1,21 @@
+@use "./../../abstracts/mixins" as *;
+
+.author {
+  @include flex-mother(row, center, flex-start);
+  gap: 1rem;
+  &__image {
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+  }
+
+  &__name {
+    font-weight: 500;
+  }
+
+  &__graduate-status {
+    margin-top: 0.25rem;
+    font-size: 0.875rem;
+    opacity: 50%;
+  }
+}
