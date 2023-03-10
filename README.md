@@ -1,12 +1,12 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">Ping Single Column</h3>
+  <h3 align="center">Testimonials</h3>
 
   <p align="center">
-     Ping Single Column based on frontend mentor design..
+     Testimonials based on frontend mentor design..
     <br />
     <br />
-    <a href="https://ping-single-column-rho.vercel.app/">View Demo</a>
+    <a href="https://testimonials-sooty.vercel.app/">View Demo</a>
   </p>
 </div>
 
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-Ping Single Column..
+Testimonials..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,8 +42,7 @@ Ping Single Column..
 Technologies used:
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 - ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
